@@ -1,1 +1,0 @@
-// isso é um super programa em c.
